@@ -54,13 +54,8 @@ Spatial Complexity: Strict
 0.00
  MB
 0.00 MB
- additional RAM allocation (
-O
-(
-1
-)
-O(1)
- footprint).
+additional RAM allocation (O(1)O(1)
+footprint).
 Thermodynamic Convergence: Successfully isolated global minimum free-energy wells without getting trapped in local minima.
 🚀 Potential Deep Tech Applications
 Drug Discovery & Bioinformatics: Rapid conformational screening of large proteins and macromolecular docking without massive GPU/TPU cluster dependencies.
@@ -68,9 +63,6 @@ Combinatorial Optimization: Solving NP-hard logistics and graph problems mapped 
 📜 Proprietary Notice & Licensing
 Copyright (c) 2026 Bruno Loureiro Desidera. All rights reserved.
 This repository showcases public benchmark capabilities of the proprietary MEA Sovereign Cognitive Kernel. Core algorithmic implementations and fractal equations remain strictly confidential.
-code
-Code
----
 
 ### Por que esse README é perfeito?
 1. Ele **provoca** o leitor com números absurdos ($2^{50.000}$ estados em 5 milissegundos).
